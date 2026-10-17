@@ -8,7 +8,8 @@ Open **https://down1oads.github.io/rorweb/** in desktop Chrome or Edge. The firs
 ## Features
 - Keyboard controls: W/S gas and brake, A/D steer, Shift/Ctrl change gear, E engine, F1 shows all controls
 - Install mods by adding `.zip` files from the **Mods** menu (saved in your browser)
-- Browser-to-browser multiplayer with a 6-digit code (needs internet)
+- Browser-to-browser multiplayer with a 6-digit code (needs internet). The host picks which mods are on the server and joiners download them automatically
+- Mouse look locks while you walk or drive and is free in menus
 
 ## Notes
 - Needs a PC that runs WebGL 2 well and about 2 GB free memory.
@@ -17,4 +18,5 @@ Open **https://down1oads.github.io/rorweb/** in desktop Chrome or Edge. The firs
 
 ## License
 Rigs of Rods is free software under the GNU GPL v3; this port is distributed under the same license. Source of the game: https://github.com/RigsOfRods/rigs-of-rods . Bundled content packs keep their own authors' licenses.
+
 
