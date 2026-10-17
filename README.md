@@ -3,8 +3,7 @@
 A web port of [Rigs of Rods](https://github.com/RigsOfRods/rigs-of-rods) (soft-body vehicle physics game) that runs from a single HTML file. **Ported by Down1oads.**
 
 ## Play
-1. Open the **Releases** page and download `Rigs_of_Rods_single.html` (about 224 MB).
-2. Double-click it (desktop Chrome or Edge recommended). Loading takes a little while.
+Open **https://down1oads.github.io/rorweb/** in desktop Chrome or Edge. The first load downloads about 170 MB and takes a little while.
 
 ## Features
 - Keyboard controls: W/S gas and brake, A/D steer, Shift/Ctrl change gear, E engine, F1 shows all controls
@@ -18,3 +17,4 @@ A web port of [Rigs of Rods](https://github.com/RigsOfRods/rigs-of-rods) (soft-b
 
 ## License
 Rigs of Rods is free software under the GNU GPL v3; this port is distributed under the same license. Source of the game: https://github.com/RigsOfRods/rigs-of-rods . Bundled content packs keep their own authors' licenses.
+
